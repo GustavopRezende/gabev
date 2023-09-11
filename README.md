@@ -1,6 +1,6 @@
 # Empresa PasseioCarioca
 
-1-O que? 
+1-O que?
 Um site para a passeios carioca que conta a história dos imóveis através de entrevista com síndicos e residentes.Além de ser um turismo arquitetônico, sobr o estilo dos prédios.
 
 2-Como?
@@ -22,11 +22,17 @@ Quando finalizamos o projeto e o proprietário possui interesse em utilizar noss
 # Requisitos Funcionais e Não funcionais
 
 #Requisitos Funcionais
-  -O cliente possui interesse em uma criação de um feed baseado nos últimos imóveis adicionado no aplicativos possuindo imagens e informações.
-  -O cliente não ficará satisfeito se o feed não estiver visivel na tela inical de seu aplicativo (proporcional a tela)
-  -Ele não espera encontrar baseado nos dados do usuário(Gênero e Data de Nascimento), destacando no Feed os pontos que mais se adequão ao usuário.
-  -O cliente relatou sobre seus software, tendo como o objetivo o usuário acessar uma página Home ,demonstrando um mapa tendo os imóveis mais próximos baseado em Sua Localização.
+
+	1. O cliente possui interesse em uma criação de um feed baseado nos últimos imóveis adicionado no aplicativos possuindo imagens e informações.
+	
+	2. O cliente não ficará satisfeito se o feed não estiver visivel na tela inical de seu aplicativo (proporcional a tela)
+	
+ 	3. Ele não espera encontrar baseado nos dados do usuário(Gênero e Data de Nascimento), destacando no Feed os pontos que mais se adequão ao usuário.
+	
+ 	4. O cliente relatou sobre seus software, tendo como o objetivo o usuário acessar uma página Home ,demonstrando um mapa tendo os imóveis mais próximos baseado em Sua Localização.
 
 #Requisitos Não-Funcionais
-  -Uilizaremos para a criação do feed a linguagem JS(JavaScript) e ReactJS.
-  -O cliente e um empresário portanto não possui connhecimentos técnicos para desenvolvimento de software.
+
+  	1. Uilizar para a criação do feed a linguagem JS(JavaScript) e ReactJS.
+	
+  	2. O cliente e um empresário portanto não possui connhecimentos técnicos para desenvolvimento de software.
