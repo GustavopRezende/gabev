@@ -1,3 +1,23 @@
+#Empresa PasseioCarioca
+1-O que? 
+Um site para a passeios carioca que conta a história dos imóveis através de entrevista com síndicos e residentes.Além de ser um turismo arquitetônico, sobr o estilo dos prédios.
+
+2-Como?
+Através de feedbacks baseado em pontos de interesse.
+
+3-Quem?
+Pessoas interessadas conhecer locais interessantes e conhecer a historia dos locais.
+
+4-Porque?
+Para instigar pessoas a conhecerem locais de turismo que nunca foram explorados por esses usuários.
+
+5-Onde? 
+Um aplicativo Web baseado ao aplicativo do PasseioCarioca
+
+6-Quando? 
+Quando finalizamos o projeto e o proprietário possui interesse em utilizar nossa ferramenta.
+
+
 # Sistemas Funcionais e Não funcionais
 
 #Sistemas Funcionais
