@@ -25,14 +25,13 @@ A criação de um feed de noticias que deve notificar as pessoas com os mais rec
 # Requisitos Funcionais e Não funcionais
 
 #Requisitos Funcionais
-
-1. O cliente possui interesse em uma criação de um feed baseado nos últimos imóveis adicionado no aplicativos possuindo imagens e informações.
-	
-2. O cliente não ficará satisfeito se o feed não estiver visivel na tela inical de seu aplicativo (proporcional a tela)
-	
- 3. Ele não espera encontrar baseado nos dados do usuário(Data de Nascimento), e nos locais mais acessados, destacando no Feed os pontos que mais se adequão ao usuário.
-	
- 4. O cliente relatou sobre seus software, tendo como o objetivo o usuário acessar uma página Home ,demonstrando um mapa tendo os imóveis mais próximos baseado em Sua Localização.
+1. O feed ficará embaixo da busca, no canto direito da tela, chamando a atenção do usuário.
+2. Ao clicar no feed, o mapa irá ocultar os pontos que já estavam adicionados e mostrar apenas os últimos pontos adicionados e de outra cor, ao invés do localizador ser azul será laranja isso fará com que o app não mude o padrão dele, do usuário escolher através do local.
+3. O ponto de interesse terá forma de exibir as imagens a a história contada com as cores diferenciadas, chamando atenção para o nosso trabalho. 
+4. O cliente possui interesse em uma criação de um feed baseado nos últimos imóveis adicionado no aplicativos possuindo imagens e informações.	
+5. O cliente não ficará satisfeito se o feed não estiver visivel na tela inical de seu aplicativo (proporcional a tela)	
+6. Ele não espera encontrar baseado nos dados do usuário(Data de Nascimento), e nos locais mais acessados, destacando no Feed os pontos que mais se adequão ao usuário.	
+7. O cliente relatou sobre seus software, tendo como o objetivo o usuário acessar uma página Home ,demonstrando um mapa tendo os imóveis mais próximos baseado em Sua Localização.
 
 #Requisitos Não-Funcionais
 
