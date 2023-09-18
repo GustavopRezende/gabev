@@ -1,6 +1,5 @@
 #Empresa Carioca
 
-# descrição do trabalho
 A criação de um feed de noticias que deve notificar as pessoas com os mais recentes adições de monumentos e informações sobre esses especificos locais como suas histórias e quem as criou.
 
 
