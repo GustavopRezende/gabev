@@ -1,8 +1,10 @@
+#Empresa Carioca
+
 # descrição do trabalho
 A criação de um feed de noticias que deve notificar as pessoas com os mais recentes adições de monumentos e informações sobre esses especificos locais como suas histórias e quem as criou.
 
 
-# Empresa PasseioCarioca
+# 5W2H
 
 1-O que:
 - Um aplicativo para a passeios carioca que conta a história dos imóveis através de entrevista com síndicos e residentes. Além de ser um turismo arquitetônico, sobre o estilo dos prédios.
