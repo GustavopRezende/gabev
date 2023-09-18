@@ -9,15 +9,14 @@ Através de feedbacks baseado em pontos de interesse.
 3-Quem?
 Pessoas interessadas conhecer locais interessantes e conhecer a historia dos locais.
 
-4-Porque?
-Para instigar pessoas a conhecerem locais de turismo que nunca foram explorados por esses usuários.
+4-Por que:
+- O aplicativo incluirá uma página inicial com um mapa mostrando os imóveis mais próximos com base na localização do usuário para instigar as pessoas a conhecerem locais de turismo que nunca foram explorados por esses usuários.
 
-5-Onde? 
-Um aplicativo Web baseado ao aplicativo do PasseioCarioca
+5-Onde:
+- O aplicativo web será desenvolvido como uma extensão do aplicativo do PasseioCarioca, proporcionando uma experiência unificada aos usuários interessados em explorar o Rio de Janeiro.
 
-6-Quando? 
-Quando finalizamos o projeto e o proprietário possui interesse em utilizar nossa ferramenta.
-
+6-Quando:
+- O aplicativo estará disponível para uso assim que o projeto for finalizado e estiver pronto para ser lançado. O momento exato do lançamento dependerá da conclusão do desenvolvimento e da aprovação do proprietário, que demonstrou interesse em utilizar a ferramenta.
 
 # Requisitos Funcionais e Não funcionais
 
