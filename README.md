@@ -1,4 +1,4 @@
-#Empresa Carioca
+# Empresa Carioca
 
 A criação de um feed de noticias que deve notificar as pessoas com os mais recentes adições de monumentos e informações sobre esses especificos locais como suas histórias e quem as criou.
 
@@ -40,6 +40,6 @@ A criação de um feed de noticias que deve notificar as pessoas com os mais rec
 	
   2. O cliente e um empresário portanto não possui connhecimentos técnicos para desenvolvimento de software.
 
-# proposito do feed
+# Proposito do feed
 
 notificar os usuarios quando um novo lugar for adicionado ao aplicativo, junto as suas caracteristicas como sua historia e curiosidades.
