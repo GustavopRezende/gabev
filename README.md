@@ -29,14 +29,14 @@ A criação de um feed de noticias que deve notificar as pessoas com os mais rec
 1. O sistema ficará embaixo da busca, no canto direito da tela, chamando a atenção do usuário.
 2. Ao clicar no feed, o mapa irá ocultar os pontos que já estavam adicionados e mostrar apenas os últimos pontos adicionados e de outra cor, ao invés do localizador ser azul será laranja isso fará com que o app não mude o padrão dele, do usuário escolher através do local.
 3. O ponto de interesse terá forma de exibir as imagens a a história contada com as cores diferenciadas, chamando atenção para o nosso trabalho. 
-4. O cliente possui interesse em uma criação de um feed baseado nos últimos imóveis adicionado no aplicativos possuindo imagens e informações.	
-5. O cliente não ficará satisfeito se o feed não estiver visivel na tela inical de seu aplicativo (proporcional a tela)	
+4. O cliente possui interesse em uma criação de um sistema baseado nos últimos imóveis adicionado no aplicativos possuindo imagens e informações.	
+5. O cliente não ficará satisfeito se o sistema não estiver visivel na tela inical de seu aplicativo (proporcional a tela)	
 6. Ele não espera encontrar baseado nos dados do usuário(Data de Nascimento), e nos locais mais acessados, destacando no Feed os pontos que mais se adequão ao usuário.	
 7. O cliente relatou sobre seus software, tendo como o objetivo o usuário acessar uma página Home ,demonstrando um mapa tendo os imóveis mais próximos baseado em Sua Localização.
 
 #Requisitos Não-Funcionais
 
-  1. Uilizar para a criação do feed a linguagem JS(JavaScript) e ReactJS.
+  1. Uilizar para a criação do sistema a linguagem JS(JavaScript) e ReactJS.
 	
   2. O cliente e um empresário portanto não possui connhecimentos técnicos para desenvolvimento de software.
 
@@ -44,4 +44,30 @@ A criação de um feed de noticias que deve notificar as pessoas com os mais rec
 
 notificar os usuarios quando um novo lugar for adicionado ao aplicativo, junto as suas caracteristicas como sua historia e curiosidades.
 
-# casos de usos
+# Casos de Uso: Notificação de Novos Locais Adicionados
+Atores:
+Usuário
+Sistema
+
+Pré-condições:
+
+1. O usuário deve ter o aplicativo instalado e estar logado.
+O administrador deve ter adicionado novos locais ao aplicativo.
+
+Fluxo Principal:
+
+1. O sistema detecta que novos locais foram adicionados pelo administrador através de um feed localizado abaixo da busca, no lado direito da página inicial.
+
+2. O sistema gera uma notificação no feed de notícias, destacando os novos locais adicionados.
+
+3. O usuário abre o aplicativo e visualiza a notificação no feed de notícias na página inicial.
+
+4. O usuário clica na notificação para ver mais detalhes sobre os novos locais. O sistema oculta os pontos antigos no mapa e destaca os novos locais em uma cor diferente. Assim, o usuário pode clicar em cada local para ver imagens e ler sobre a história do local.
+
+Pós-condições:
+
+1. O usuário está ciente dos novos locais adicionados e pode explorá-los conforme desejar após executar os passos de uso.
+
+Fluxo Alternativo:
+
+1. Se o usuário não estiver interessado nos novos locais, ele pode ignorar a notificação e continuar usando o aplicativo como de costume.
