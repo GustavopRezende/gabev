@@ -26,7 +26,7 @@ A criação de um feed de noticias que deve notificar as pessoas com os mais rec
 # Requisitos Funcionais e Não funcionais
 
 #Requisitos Funcionais
-1. O feed ficará embaixo da busca, no canto direito da tela, chamando a atenção do usuário.
+1. O sistema ficará embaixo da busca, no canto direito da tela, chamando a atenção do usuário.
 2. Ao clicar no feed, o mapa irá ocultar os pontos que já estavam adicionados e mostrar apenas os últimos pontos adicionados e de outra cor, ao invés do localizador ser azul será laranja isso fará com que o app não mude o padrão dele, do usuário escolher através do local.
 3. O ponto de interesse terá forma de exibir as imagens a a história contada com as cores diferenciadas, chamando atenção para o nosso trabalho. 
 4. O cliente possui interesse em uma criação de um feed baseado nos últimos imóveis adicionado no aplicativos possuindo imagens e informações.	
@@ -40,6 +40,8 @@ A criação de um feed de noticias que deve notificar as pessoas com os mais rec
 	
   2. O cliente e um empresário portanto não possui connhecimentos técnicos para desenvolvimento de software.
 
-# Proposito do feed
+# Proposito do sistema
 
 notificar os usuarios quando um novo lugar for adicionado ao aplicativo, junto as suas caracteristicas como sua historia e curiosidades.
+
+# casos de usos
