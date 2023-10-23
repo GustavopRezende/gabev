@@ -25,48 +25,76 @@ A criação de um feed de noticias que deve notificar as pessoas com as mais rec
 
 # Requisitos Funcionais e Não funcionais
 
-#Requisitos Funcionais
-1. O sistema ficará embaixo da busca, no canto direito da tela, chamando a atenção do usuário.
-2. Ao clicar no feed, o mapa irá ocultar os pontos que já estavam adicionados e mostrar apenas os últimos pontos adicionados e de outra cor, ao invés do localizador ser azul será laranja isso fará com que o app não mude o padrão dele, do usuário escolher através do local.
-3. O ponto de interesse terá forma de exibir as imagens a a história contada com as cores diferenciadas, chamando atenção para o nosso trabalho. 
-4. O cliente possui interesse em uma criação de um sistema baseado nos últimos imóveis adicionados no aplicativos possuindo imagens e informações.	
-5. O cliente não ficará satisfeito se o sistema não estiver visivel na tela inical de seu aplicativo (proporcional a tela).		
-6. O cliente relatou sobre seu software, tendo como o objetivo o usuário acessar uma página Home, demonstrando um mapa tendo os imóveis recém adicionados.
+# Requisitos Funcionais
+1. O sistema ficará embaixo da busca, no canto direito da tela(em destaque).
+2. O sistema,ao clicar no feed, o mapa irá ocultar os pontos que já estavam adicionados e mostrar apenas os últimos pontos adicionados e de outra cor.
+3. O sistema do ponto de interesse terá forma de exibir as imagens a a história contada com as cores diferenciadas. 
+4. O sistema é baseado nos últimos imóveis adicionados no aplicativo, possuindo imagens e informações.	
+5. O sistema vai estar visivel na tela inical de seu aplicativo (proporcional a tela).		
+6. O sistema tem uma Página Home, demonstrando o mapa com os imóveis recém adicionados.
 
-#Requisitos Não-Funcionais
+# Requisitos Não-Funcionais
 
-  1. Uilizar para a criação do sistema a linguagem JS(JavaScript) e ReactJS.
-	
-  2. O cliente é um empresário portanto não possui conhecimentos técnicos para desenvolvimento de software.
+  1. O sistema será feito com as linguagens JS(JavaScript) e ReactJS.	
+  2. É necessario tecnólogos que possuem conhecimentos para desenvolvimento do Sofware
 
 # Propósito do sistema
 
 Notificar aos usuários quando um novo lugar for adicionado ao aplicativo, junto as suas caracteristicas como sua historia e curiosidades.
 
-# Casos de Uso: Notificação de Novos Locais Adicionados
-Atores:
-Usuário
-Sistema
+# Casos de Uso: 
 
-Pré-condições:
+Botão de Interação para o Feed
 
-1. O usuário deve ter o aplicativo instalado e estar logado.
-O administrador deve ter adicionado novos locais ao aplicativo.
+	Caso de Uso Geral: Inicializa um botão a Página Home
 
-Fluxo Principal:
+  	Ator Principal: Administrador.
 
-1. O sistema detecta que novos locais foram adicionados pelo administrador através de um feed localizado abaixo da busca no lado direito da página inicial.
+    	Ator Secundário: Usuário.
 
-2. O sistema gera uma notificação no feed de notícias, destacando os novos locais adicionados.
+     	Resumo: O sistema inicializa um botão na Página Home na qual redirecionar o feed.
 
-3. O usuário abre o aplicativo e visualiza a notificação no feed de notícias na página inicial.
+      	Pré-Condições: O usuário deve estar logado no sistema.
 
-4. O usuário clica na notificação para ver mais detalhes sobre os novos locais. O sistema oculta os pontos antigos no mapa e destaca os novos locais em uma cor diferente. Assim o usuário pode clicar em cada local para ver imagens e ler sobre a história do local.
+       Pós-Condiçõe: O sistema deve inicializar o botão para o feed
 
-Pós-condições:
+       Fluxo Principal:
 
-1. O usuário está ciente dos novos locais adicionados e pode explorá-los conforme desejar após executar os passos de uso.
+       1.Fazer login no sistema.
+       2. O usuário abre o aplicativo e visualiza a notificação no feed de notícias na página inicial.
+       3. O usuário acessa o feed ao clicar no botão.
 
-Fluxo Alternativo:
+       Fluxo Alternativo:
 
-1. Se o usuário não estiver interessado nos novos locais, ele pode ignorar a notificação e continuar usando o aplicativo como de costume.
+       1. Seleciona o opção de retornar a pagina Home.
+       2. Seliciona o logo do software , retornando a pagina Home.
+
+Notificação de Novos Locais Adicionados
+
+	Caso de Uso Geral: Adicionar locais para o Feed.
+ 
+	Ator Principal: Administrador.
+ 
+	Ator Secundário: Usuário.
+ 
+	Resumo: O software gera um novo ponto no software e e notificar o usuário.
+ 
+	Pré-Condições: O usuário deve estar logado no sitema.
+ 
+	Pós-Condições: O administrador deve ter adiicionado novos locais ao aplicativo.
+
+ 	Fluxo Principal:
+  
+	1.Fazer login no sistema.
+ 	2. O usuário abre o aplicativo e visualiza a notificação no feed de notícias na página inicial.
+	3. O sistema detecta que novos locais foram adicionados pelo administrador através de um feed localizado abaixo da busca no lado direito da página inicial.
+	4. O sistema gera uma notificação no feed de notícias, destacando os novos locais adicionados.
+	5. O usuário clica na notificação para ver mais detalhes sobre os novos locais. 
+ 	6.O sistema oculta os pontos antigos no mapa e destaca os novos locais em uma cor diferente. Assim o usuário pode clicar em cada local para ver imagens e ler sobre a história do local.
+
+
+	Fluxo Alternativo:
+	1. Se o usuário não estiver interessado nos novos locais, ele pode ignorar a notificação e continuar usando o aplicativo.
+ 	2. O usuário pode retornar a Home.
+
+
