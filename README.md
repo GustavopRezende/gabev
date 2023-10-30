@@ -98,3 +98,5 @@ Notificação de Novos Locais Adicionados
  	2. O usuário pode retornar a Home.
 
 
+# Link Protótipo Figma
+https://www.figma.com/file/oQn2y8GXz7JwIDHzV2mtE3/Untitled?type=design&node-id=13-8&mode=design&t=d5wWadZpMa0XkHfG-0
