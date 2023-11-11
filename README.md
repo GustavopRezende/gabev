@@ -101,5 +101,5 @@ Notificação de Novos Locais Adicionados
 # Link Protótipo Figma
 https://www.figma.com/file/oQn2y8GXz7JwIDHzV2mtE3/Untitled?type=design&node-id=13-8&mode=design&t=d5wWadZpMa0XkHfG-0
 
-% Link ScramBanBoard (Trello)
+# Link ScramBanBoard (Trello)
 https://trello.com/b/bImn7Bmx/tarefas
