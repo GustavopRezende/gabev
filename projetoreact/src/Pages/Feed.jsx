@@ -12,7 +12,7 @@ const Feed = () => {
       <div className='grid-container'>
         <div className='grid-item'><Local_1 /></div>
         <div className='grid-item'><Local_2 /></div>
-        <div className='grid-item'><Local_3 /></div>
+        <div className='grid-item'><Local_3 /></div>   
       </div>
     </div>
     </body>

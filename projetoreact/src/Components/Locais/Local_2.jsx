@@ -20,6 +20,7 @@ function Local_2() {
           <li>Característica 2</li>
         </ul>
       </div>
+      <button>Leia Mais</button>
     </div>
  );
 }
