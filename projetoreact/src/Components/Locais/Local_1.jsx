@@ -24,7 +24,7 @@ function Local_1() {
           </li>
         </ul>
       </div>
-      <button>Leia Mais</button>
+      
     </div>
  );
 }

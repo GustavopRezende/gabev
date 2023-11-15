@@ -1,5 +1,6 @@
 import React from 'react';
-import MapComponent from '../Components/MapComponent'; // Importa o componente de mapa
+import MapComponent from '../../Components/MapComponent'; // Importa o componente de mapa
+import '../css/style.css';
 
 const Primeiro = () => {
   return (
