@@ -1,14 +1,15 @@
 import React from 'react';
-
+import L1 from './Img/L1.jpeg';
+import './style.css';
 function Local_1() {
  return (
     <div className="carta">
       <div className="carta-image">
-        <img src="image-url" alt="Edifício Lellis" />
+        <img src={L1}alt="Edifício Lellis" />
       </div>
       <div className="carta-contentudo">
         <h1>Edifício Lellis</h1>
-        <h2>1928 - Rua Barão de Ipanema</h2>
+        <h2>Rua Barão de Ipanema, 8 Copacabana</h2>
         <h3>Prédio residencial mais antigo da orla de Copacabana</h3>
         <p>
           Construído em estilo neoclássico, em 1928, o prédio ocupa metade da

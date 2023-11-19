@@ -1,0 +1,21 @@
+.carta {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   }
+   
+   .carta-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+   }
+   
+   .carta-image img {
+    max-width: 100%;
+    max-height: 100%;
+   }
+.carta-conteudo{
+    font-family: 'Nunito Sans', sans-serif;
+}
