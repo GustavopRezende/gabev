@@ -1,15 +1,15 @@
 import React from 'react';
-
+import L3 from './Img/L3.jpeg';
 function Local_3() {
  return (
     <div className="carta">
       <div className="carta-image">
-        <img src="image-url" alt="Nome do Local 3" />
+        <img src={L3} alt="Palacio Duue de Caxias" />
       </div>
       <div className="carta-contentudo">
-        <h1>Nome do Local 3</h1>
-        <h2>Data de Construção - Endereço</h2>
-        <h3>Breve descrição do local</h3>
+        <h2 className='titulo-conteudo'>Palácio Duque de Caxias</h2>
+        <h3>Data de Construção - Endereço</h3>
+        <h4>Breve descrição do local</h4>
         <p>
           Detalhes do local, incluindo características arquitetônicas,
           históricas, etc.

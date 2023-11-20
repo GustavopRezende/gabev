@@ -1,4 +1,5 @@
 .carta {
+    font-family: 'Poppins', sans-serif;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -17,5 +18,12 @@
     max-height: 100%;
    }
 .carta-conteudo{
-    font-family: 'Nunito Sans', sans-serif;
+    text-align: left;
+    font-size: 15px;
+    background-color:#5f27cd;
+    
+}
+
+.titulo-conteudo{
+    color:#5f27cd;
 }

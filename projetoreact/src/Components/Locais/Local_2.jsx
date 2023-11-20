@@ -8,9 +8,9 @@ function Local_2() {
         <img src={L2} alt="Nome do Local 2" />
       </div>
       <div className="carta-contentudo">
-        <h1>Edificio Francisco Serrador</h1>
-        <h2>Rua Álvaro Alvim, 14 Centro</h2>
-        <h3>Antigo hotel grandioso e luxuoso de Cinelândia</h3>
+        <h2 className='titulo-conteudo'>Edificio Francisco Serrador</h2>
+        <h3>Rua Álvaro Alvim, 14 Centro</h3>
+        <h4>Antigo hotel grandioso e luxuoso de Cinelândia</h4>
         <p>
         O Edifício Serrador é um marco na Cinelândia e 
         representa uma era passada de grandeza e prestígio.

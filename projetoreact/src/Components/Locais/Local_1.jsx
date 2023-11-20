@@ -8,9 +8,9 @@ function Local_1() {
         <img src={L1}alt="Edifício Lellis" />
       </div>
       <div className="carta-contentudo">
-        <h1>Edifício Lellis</h1>
-        <h2>Rua Barão de Ipanema, 8 Copacabana</h2>
-        <h3>Prédio residencial mais antigo da orla de Copacabana</h3>
+        <h2 className='titulo-conteudo'>Edifício Lellis</h2>
+        <h3>Rua Barão de Ipanema, 8 Copacabana</h3>
+        <h4>Prédio residencial mais antigo da orla de Copacabana</h4>
         <p>
           Construído em estilo neoclássico, em 1928, o prédio ocupa metade da
           primeira quadra da Rua Barão de Ipanema. Ao lado foi erguido, na mesma
