@@ -67,7 +67,6 @@ Botão de Interação para o Feed
     Fluxo Principal:
 
     1. Fazer login no sistema.
-
     2. O usuário abre o aplicativo e visualiza a notificação no feed de notícias na página inicial. 3. O usuário acessa o feed ao clicar no botão.
 
     Fluxo Alternativo:
@@ -100,7 +99,7 @@ Notificação de Novos Locais Adicionados
 
 
     Fluxo Alternativo:
-    
+
     1. Se o usuário não estiver interessado nos novos locais, ele pode ignorar a notificação e continuar usando o aplicativo.
     2. O usuário pode retornar a Home.
 
