@@ -89,7 +89,7 @@ Notificação de Novos Locais Adicionados
 
     Pós-Condições: O administrador deve ter adiicionado novos locais ao aplicativo.
 
-Fluxo Principal:
+    Fluxo Principal:
 
     1. Fazer login no sistema.
     2. O usuário abre o aplicativo e visualiza a notificação no feed de notícias na página inicial.
@@ -100,6 +100,7 @@ Fluxo Principal:
 
 
     Fluxo Alternativo:
+    
     1. Se o usuário não estiver interessado nos novos locais, ele pode ignorar a notificação e continuar usando o aplicativo.
     2. O usuário pode retornar a Home.
 
