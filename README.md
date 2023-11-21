@@ -51,24 +51,24 @@ Botão de Interação para o Feed
 
   	Ator Principal: Administrador.
 
-    Ator Secundário: Usuário.
+    	Ator Secundário: Usuário.
 
-    Resumo: O sistema inicializa um botão na Página Home na qual redirecionar o feed.
+    	Resumo: O sistema inicializa um botão na Página Home na qual redirecionar o feed.
 
-    Pré-Condições: O usuário deve estar logado no sistema.
+	Pré-Condições: O usuário deve estar logado no sistema.
 
-    Pós-Condiçõe: O sistema deve inicializar o botão para o feed
+    	Pós-Condiçõe: O sistema deve inicializar o botão para o feed
 
-    Fluxo Principal:
+    	Fluxo Principal:
 
-    1.Fazer login no sistema.
-    2. O usuário abre o aplicativo e visualiza a notificação no feed de notícias na página inicial.
-    3. O usuário acessa o feed ao clicar no botão.
+    	1.Fazer login no sistema.
+   	2. O usuário abre o aplicativo e visualiza a notificação no feed de notícias na página inicial.
+    	3. O usuário acessa o feed ao clicar no botão.
 
-    Fluxo Alternativo:
+    	Fluxo Alternativo:
 
-    1. Seleciona a opção de retornar a pagina Home.
-    2. Seliciona o logo do software , retornando a pagina Home.
+    	1. Seleciona a opção de retornar a pagina Home.
+    	2. Seliciona o logo do software , retornando a pagina Home.
 
 Notificação de Novos Locais Adicionados
 
@@ -104,26 +104,26 @@ Botão Leia Mais do Cartão Feed
 
   	Ator Principal: Administrador.
 
-    Ator Secundário: Usuário.
+    	Ator Secundário: Usuário.
 
-    Resumo: O sistema inicializa um botão no Cartão do Feed na qual redireciona a pagina detalhada.
+    	Resumo: O sistema inicializa um botão no Cartão do Feed na qual redireciona a pagina detalhada.
 
-    Pré-Condições: O usuário deve estar logado no sistema.
+    	Pré-Condições: O usuário deve estar logado no sistema.
 
-    Pós-Condiçõe: O sistema deve inicializar o botão para a pagina feed
+    	Pós-Condiçõe: O sistema deve inicializar o botão para a pagina feed
 
-    Fluxo Principal:
+    	Fluxo Principal:
 
-    1.Fazer login no sistema.
-    2. O usuário abre o aplicativo e visualiza a notificação no feed de notícias na página inicial.
-    3. O usuário acessa o feed ao clicar no botão.
-	  4. O usuário acessa a página detalhada ao clicar no botão.
+    	1.Fazer login no sistema.
+    	2. O usuário abre o aplicativo e visualiza a notificação no feed de notícias na página inicial.
+    	3. O usuário acessa o feed ao clicar no botão.
+	4. O usuário acessa a página detalhada ao clicar no botão.
 
-    Fluxo Alternativo:
+    	Fluxo Alternativo:
 
-    1. Seleciona a opção de retornar a página Home.
-    2. Seliciona o logo do software , retornando a pagina Home.
-	  3.Seleciona a opcão de retornar a página feed.
+    	1. Seleciona a opção de retornar a página Home.
+    	2. Seliciona o logo do software , retornando a pagina Home.
+	3.Seleciona a opcão de retornar a página feed.
 
 Botão Retornar da Página detalhada ao Feed 
 
@@ -131,27 +131,27 @@ Botão Retornar da Página detalhada ao Feed
 
   	Ator Principal: Administrador.
 
-    Ator Secundário: Usuário.
+    	Ator Secundário: Usuário.
 
-    Resumo: O sistema inicializa um botão na Página detalhada  no qual redireciona a pagina feed.
+    	Resumo: O sistema inicializa um botão na Página detalhada  no qual redireciona a pagina feed.
 
-    Pré-Condições: O usuário deve estar logado no sistema.
+    	Pré-Condições: O usuário deve estar logado no sistema.
 
-    Pós-Condiçõe: O sistema deve inicializar o botão para a pagina detalhada
+    	Pós-Condiçõe: O sistema deve inicializar o botão para a pagina detalhada
 
-    Fluxo Principal:
+   	Fluxo Principal:
 
-    1.Fazer login no sistema.
-    2. O usuário abre o aplicativo e visualiza a notificação no feed de notícias na página inicial.
-    3. O usuário acessa o feed ao clicar no botão.
-	  4. O usuário acessa a página detalhada ao clicar no botão.
-    5. O usuário acessa o feed ao clicar no botão
+    	1.Fazer login no sistema.
+    	2. O usuário abre o aplicativo e visualiza a notificação no feed de notícias na página inicial.
+    	3. O usuário acessa o feed ao clicar no botão.
+	4. O usuário acessa a página detalhada ao clicar no botão.
+    	5. O usuário acessa o feed ao clicar no botão
 
-    Fluxo Alternativo:
+    	Fluxo Alternativo:
 
-    1. Seleciona a opção de retornar a página Home.
-    2. Seliciona o logo do software , retornando a pagina Home.
-	  3.Seleciona a opcão de retornar a página detalhada.
+    	1. Seleciona a opção de retornar a página Home.
+    	2. Seliciona o logo do software , retornando a pagina Home.
+	3.Seleciona a opcão de retornar a página detalhada.
 
 # Link Protótipo Figma
 https://www.figma.com/file/oQn2y8GXz7JwIDHzV2mtE3/Untitled?type=design&node-id=13-8&mode=design&t=d5wWadZpMa0XkHfG-0
