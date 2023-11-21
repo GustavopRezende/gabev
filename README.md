@@ -125,7 +125,7 @@ Botão Leia Mais do Cartão Feed
     2. Seliciona o logo do software , retornando a pagina Home.
 	  3.Seleciona a opcão de retornar a página feed.
 
-Botão Retornar da Página detalhado ao Feed 
+Botão Retornar da Página detalhada ao Feed 
 
 	Caso de Uso Geral: Inicializa um botão ao fim da página detalhada.
 
