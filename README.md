@@ -155,8 +155,34 @@ Botão Retornar da Página detalhada ao Feed
     Fluxo Alternativo:
 
     1. Seleciona a opção de retornar a página Home.
-    2. Seliciona o logo do software , retornando a pagina Home.
+    2. Seleciona o logo do software , retornando a pagina Home.
     3. Seleciona a opcão de retornar a página detalhada.
+
+Botão Retornar da Página Principal
+
+    Caso de Uso Geral: Inicializa um botão ao canto superior direito da página feed.
+
+    Ator Principal: Administrador.
+
+    Ator Secundário: Usuário.
+
+    Resumo: O sistema inicializa um botão na Página Feed no qual redireciona a pagina inicial.
+
+    Pré-Condições: O usuário deve estar logado no sistema.
+
+    Pós-Condiçõe: O sistema deve inicializar o botão para a pagina feed
+
+    Fluxo Principal:
+
+    1. Fazer login no sistema.
+    2. O usuário abre o aplicativo e visualiza a notificação no feed de notícias na página inicial.
+    3. O usuário acessa o feed ao clicar no botão.
+    4. O usuário acessa o pagina inicial ao clicar no botão.
+    
+
+    Fluxo Alternativo:
+
+    1. Seleciona a opção de retornar a página Feed.
 
 # Link Protótipo Figma
 
