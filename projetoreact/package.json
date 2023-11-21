@@ -1,7 +1,7 @@
 {
   "name": "projetoreact",
   "version": "0.1.0",
-  "homepage": "https://GustavopRezende.github.io/gabev",
+  "homepage": "https://GustavopRezende.github.io/gabev/projetoreact",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
