@@ -186,7 +186,7 @@ Botão Retornar da Página Principal
 
 # Link Protótipo Figma
 
-https://www.figma.com/file/oQn2y8GXz7JwIDHzV2mtE3/Untitled?type=design&node-id=13-8&mode=design&t=d5wWadZpMa0XkHfG-0
+[https://www.figma.com/file/oQn2y8GXz7JwIDHzV2mtE3/Untitled?type=design&node-id=13-8&mode=design&t=d5wWadZpMa0XkHfG-0](https://www.figma.com/file/2AREmBkWDK8gabvK3GoAs7/Untitled?type=design&t=PD3DVD9oSkXSmyRx-6)https://www.figma.com/file/2AREmBkWDK8gabvK3GoAs7/Untitled?type=design&t=PD3DVD9oSkXSmyRx-6
 
 # Link ScramBanBoard (Trello)
 
