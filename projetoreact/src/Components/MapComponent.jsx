@@ -7,11 +7,11 @@ import L from 'leaflet';
 import customIcon from './—Pngtree—location vector icon_3722521.png';
 
 const MapComponent = () => {
-  const initialPosition = [-22.935361, -43.215756];
+  const initialPosition = [-22.975278, -43.1875];
   const markers = [
-    { position: [-22.935361, -43.215756], text: 'local 1' },
-    { position: [-22.930000, -43.210000], text: 'Marcador 2' },
-    { position: [-22.925000, -43.205000], text: 'Marcador 3' },
+    { position: [-22.975278, -43.1875], text: 'Edifício Lellis' },
+    { position: [-22.911944, -43.176111], text: 'Edificio Francisco Serrador' },
+    { position: [-22.903333, -43.189444], text: 'Palácio Duque de Caxias' },
   ];
 
   const customMarkerIcon = L.icon({
@@ -35,7 +35,7 @@ const MapComponent = () => {
       </MapContainer>
       <div style={{ position: 'absolute', bottom: '20px', right: '20px', zIndex: '1000' }}>
         <Link to="/feed">
-          <button style={{ padding: '10px', fontSize: '16px' }}>Go to Feed</button>
+          <button style={{ padding: '10px', fontSize: '16px' }}>Ir Feed</button>
         </Link>
       </div>
     </div>
