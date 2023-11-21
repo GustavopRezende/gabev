@@ -26,6 +26,7 @@ A criação de um feed de noticias que deve notificar as pessoas com as mais rec
 # Requisitos Funcionais e Não funcionais
 
 # Requisitos Funcionais
+
 1. O sistema ficará embaixo da busca, no canto direito da tela(em destaque).
 2. O sistema,ao clicar no feed, o mapa irá ocultar os pontos que já estavam adicionados e mostrar apenas os últimos pontos adicionados e de outra cor.
 3. O sistema do ponto de interesse terá forma de exibir as imagens a a história contada com as cores diferenciadas. 
@@ -35,8 +36,8 @@ A criação de um feed de noticias que deve notificar as pessoas com as mais rec
 
 # Requisitos Não-Funcionais
 
-  1. O sistema será feito com as linguagens JS(JavaScript) e ReactJS.	
-  2. É necessario tecnólogos que possuem conhecimentos para desenvolvimento do Sofware
+1. O sistema será feito com as linguagens JS(JavaScript) e ReactJS.	
+2. É necessario tecnólogos que possuem conhecimentos para desenvolvimento do Sofware
 
 # Propósito do sistema
 
@@ -50,24 +51,24 @@ Botão de Interação para o Feed
 
   	Ator Principal: Administrador.
 
-    	Ator Secundário: Usuário.
+    Ator Secundário: Usuário.
 
-     	Resumo: O sistema inicializa um botão na Página Home na qual redirecionar o feed.
+    Resumo: O sistema inicializa um botão na Página Home na qual redirecionar o feed.
 
-      	Pré-Condições: O usuário deve estar logado no sistema.
+    Pré-Condições: O usuário deve estar logado no sistema.
 
-       Pós-Condiçõe: O sistema deve inicializar o botão para o feed
+    Pós-Condiçõe: O sistema deve inicializar o botão para o feed
 
-       Fluxo Principal:
+    Fluxo Principal:
 
-       1.Fazer login no sistema.
-       2. O usuário abre o aplicativo e visualiza a notificação no feed de notícias na página inicial.
-       3. O usuário acessa o feed ao clicar no botão.
+    1.Fazer login no sistema.
+    2. O usuário abre o aplicativo e visualiza a notificação no feed de notícias na página inicial.
+    3. O usuário acessa o feed ao clicar no botão.
 
-       Fluxo Alternativo:
+    Fluxo Alternativo:
 
-       1. Seleciona o opção de retornar a pagina Home.
-       2. Seliciona o logo do software , retornando a pagina Home.
+    1. Seleciona a opção de retornar a pagina Home.
+    2. Seliciona o logo do software , retornando a pagina Home.
 
 Notificação de Novos Locais Adicionados
 
@@ -97,6 +98,60 @@ Notificação de Novos Locais Adicionados
 	1. Se o usuário não estiver interessado nos novos locais, ele pode ignorar a notificação e continuar usando o aplicativo.
  	2. O usuário pode retornar a Home.
 
+Botão Leia Mais do Cartão Feed
+
+	Caso de Uso Geral: Inicializa um botão ao Cartão
+
+  	Ator Principal: Administrador.
+
+    Ator Secundário: Usuário.
+
+    Resumo: O sistema inicializa um botão no Cartão do Feed na qual redireciona a pagina detalhada.
+
+    Pré-Condições: O usuário deve estar logado no sistema.
+
+    Pós-Condiçõe: O sistema deve inicializar o botão para a pagina feed
+
+    Fluxo Principal:
+
+    1.Fazer login no sistema.
+    2. O usuário abre o aplicativo e visualiza a notificação no feed de notícias na página inicial.
+    3. O usuário acessa o feed ao clicar no botão.
+	  4. O usuário acessa a página detalhada ao clicar no botão.
+
+    Fluxo Alternativo:
+
+    1. Seleciona a opção de retornar a página Home.
+    2. Seliciona o logo do software , retornando a pagina Home.
+	  3.Seleciona a opcão de retornar a página feed.
+
+Botão Retornar da Página detalhado ao Feed 
+
+	Caso de Uso Geral: Inicializa um botão ao fim da página detalhada.
+
+  	Ator Principal: Administrador.
+
+    Ator Secundário: Usuário.
+
+    Resumo: O sistema inicializa um botão na Página detalhada  no qual redireciona a pagina feed.
+
+    Pré-Condições: O usuário deve estar logado no sistema.
+
+    Pós-Condiçõe: O sistema deve inicializar o botão para a pagina detalhada
+
+    Fluxo Principal:
+
+    1.Fazer login no sistema.
+    2. O usuário abre o aplicativo e visualiza a notificação no feed de notícias na página inicial.
+    3. O usuário acessa o feed ao clicar no botão.
+	  4. O usuário acessa a página detalhada ao clicar no botão.
+    5. O usuário acessa o feed ao clicar no botão
+
+    Fluxo Alternativo:
+
+    1. Seleciona a opção de retornar a página Home.
+    2. Seliciona o logo do software , retornando a pagina Home.
+	  3.Seleciona a opcão de retornar a página detalhada.
 
 # Link Protótipo Figma
 https://www.figma.com/file/oQn2y8GXz7JwIDHzV2mtE3/Untitled?type=design&node-id=13-8&mode=design&t=d5wWadZpMa0XkHfG-0
