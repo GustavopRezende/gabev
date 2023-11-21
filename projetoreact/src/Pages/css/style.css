@@ -66,3 +66,13 @@
   color: white;
 
 }
+
+.botao-voltar {
+  background-color: #5f27cd;
+  border: none;
+  padding: 10px 20px;
+  color: white;
+  position: absolute; 
+  top: 20px; 
+  right: 20px; 
+}

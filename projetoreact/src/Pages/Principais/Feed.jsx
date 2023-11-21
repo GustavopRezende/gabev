@@ -9,6 +9,11 @@ import '../css/style.css';
 const Feed = () => {
   return (
     <div className='feed'>
+      {/* Botão para retornar à página inicial */}
+      <Link to="/">
+        <button className='botao-voltar'>Voltar</button>
+      </Link>
+
       <header className='titulo'>Feed</header>
       <div className='grid-container'>
         <div className='grid-item'>
