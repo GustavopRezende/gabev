@@ -195,3 +195,8 @@ https://trello.com/b/bImn7Bmx/tarefas
 # Link Canva
 
 https://www.canva.com/design/DAF0zwk0y_4/CAV-_GzX2I_tpwhh9tOdnw/edit?utm_content=DAF0zwk0y_4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+# Link GitHub io 
+
+https://gustavoprezende.github.io/gabev/
