@@ -196,6 +196,12 @@ https://trello.com/b/bImn7Bmx/tarefas
 
 https://www.canva.com/design/DAF0zwk0y_4/CAV-_GzX2I_tpwhh9tOdnw/edit?utm_content=DAF0zwk0y_4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
+# integrantes do trabalho
+
+![integrantes](https://github.com/GustavopRezende/gabev/assets/142441417/cbdb3791-076c-433a-b7c9-b1f39812d1b2)
+
+
+
 
 # Link GitHub io 
 
