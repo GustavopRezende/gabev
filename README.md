@@ -198,7 +198,7 @@ https://www.canva.com/design/DAF0zwk0y_4/CAV-_GzX2I_tpwhh9tOdnw/edit?utm_content
 
 # integrantes do trabalho
 
-![integrantes](https://github.com/GustavopRezende/gabev/assets/142441417/cbdb3791-076c-433a-b7c9-b1f39812d1b2)
+[![integrantes](https://github.com/GustavopRezende/gabev/assets/142441417/cbdb3791-076c-433a-b7c9-b1f39812d1b2)](https://www.figma.com/file/7oZEC1NhVYbZ2LNR37LtRz/Untitled?type=design&node-id=0%3A1&mode=design&t=Af9U63KYD7oHVxJx-1)https://www.figma.com/file/7oZEC1NhVYbZ2LNR37LtRz/Untitled?type=design&node-id=0%3A1&mode=design&t=Af9U63KYD7oHVxJx-1
 
 
 
